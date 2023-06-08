@@ -1,0 +1,11 @@
+.btn-site-nav a {
+    background-color: white;
+    color: black;
+    max-width:300px !important;
+    margin-bottom: 2em !important;
+}
+
+.btn-site-nav a:hover {
+    background-color: #efd13e;
+    color: black !important;
+}
